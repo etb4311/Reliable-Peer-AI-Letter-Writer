@@ -1,0 +1,8 @@
+{
+  "name": "Reliable Peer - Student Absence & Apology Letter Assistant",
+  "description": "An agentic peer advisor and letter generator based on the Reliable Peer role card for students needing to communicate sickness or absence to professors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
